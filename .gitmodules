@@ -4,3 +4,6 @@
 [submodule "SubHunter-Chrome-Extension"]
 	path = SubHunter-Chrome-Extension
 	url = https://github.com/thisisdarkstar/SubHunter-Chrome-Extension.git
+[submodule "Terminal-New-Tab-Extension-for-chrome"]
+	path = Terminal-New-Tab-Extension-for-chrome
+	url = https://github.com/thisisdarkstar/Terminal-New-Tab-Extension-for-chrome.git
