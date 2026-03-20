@@ -7,3 +7,6 @@
 [submodule "Terminal-New-Tab-Extension-for-chrome"]
 	path = Terminal-New-Tab-Extension-for-chrome
 	url = https://github.com/thisisdarkstar/Terminal-New-Tab-Extension-for-chrome.git
+[submodule "LinkHawk"]
+	path = LinkHawk
+	url = https://github.com/thisisdarkstar/LinkHawk.git
